@@ -1,0 +1,4 @@
+split,images,images_with_unsealed,images_without_unsealed,unsealed_boxes
+train,3349,1055,2294,1055
+valid,120,81,39,81
+test,80,49,31,49
