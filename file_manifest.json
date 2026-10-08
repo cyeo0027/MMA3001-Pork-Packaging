@@ -51,8 +51,8 @@
   },
   {
     "file": "notebooks/MMA3001_training.ipynb",
-    "bytes": 6914090,
-    "sha256": "d33f13c1a81b2d2f234a4f62732ddc2b98dbf0c2cdf118f7921e469de855c1ae"
+    "bytes": 6913186,
+    "sha256": "5852625ba69c02f28b1d8f5720d605e2903c3b86c3e43803d8b854f5952f98d9"
   },
   {
     "file": "pork_dataset.py",
@@ -395,14 +395,19 @@
     "sha256": "9f89e1d83ebc4c768cd9733550ebe2ce7ce5b541b9f1581c0a5cfc65073da7ec"
   },
   {
+    "file": "verification/file_manifest.json",
+    "bytes": 14838,
+    "sha256": "bd0add672dd973f80f19c2469db2d465fb96c578c179b239136ffa8f910c905d"
+  },
+  {
     "file": "verification/software_test_report.txt",
     "bytes": 2270,
-    "sha256": "9fc57c0458c6f03e00899885f1472bf925a08d0b2b1852ce1a26903e418cc24e"
+    "sha256": "097f4c1f8b97cd9b7a6f5402bdf3f7d459160229e9ebe535d3366a5dc1548688"
   },
   {
     "file": "verification/source_parity.json",
     "bytes": 274,
-    "sha256": "cc75d0b01054eac67d1477f0e6068f2f46db31f48bf5db9b330a806f3c5b8646"
+    "sha256": "12c992dfc28b8fd324f6f8690928e813a9cf5c6d28cf2afd544f2589862ada1a"
   },
   {
     "file": "verification/verification_environment.txt",

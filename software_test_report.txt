@@ -1,7 +1,7 @@
 Command: /usr/bin/python3 -m unittest discover -s tests -v
-UTC: 2026-10-06T05:26:48.783436+00:00
+UTC: 2026-10-08T07:22:45.104295+00:00
 Python: 3.13.16
-Duration seconds: 0.2601
+Duration seconds: 2.3049
 Exit code: 0
 
 test_invalid_cli_command_is_rejected (test_project.EntryPointTests.test_invalid_cli_command_is_rejected) ... ok
@@ -23,6 +23,6 @@ test_string_keyed_class_mapping_is_supported (test_project.PreparationTests.test
 test_unsafe_archive_paths_are_rejected (test_project.PreparationTests.test_unsafe_archive_paths_are_rejected) ... ok
 
 ----------------------------------------------------------------------
-Ran 17 tests in 0.063s
+Ran 17 tests in 0.107s
 
 OK
