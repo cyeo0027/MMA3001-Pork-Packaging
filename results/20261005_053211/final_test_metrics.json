@@ -1,0 +1,17 @@
+{
+  "model": "yolov8n",
+  "image_size": 640,
+  "checkpoint": "/content/drive/MyDrive/MMA3001_Pork_Project/results/20261005_053211/train/yolov8n/weights/best.pt",
+  "data_yaml": "/content/mma3001_unsealed_dataset/data.yaml",
+  "split": "test",
+  "batch_size": 8,
+  "gpu": null,
+  "evaluation_device": "cpu",
+  "ultralytics_version": "8.4.120",
+  "torch_version": "2.11.0+cpu",
+  "precision": 0.8786652712467033,
+  "recall": 0.7551020408163265,
+  "mAP50": 0.7997594795041685,
+  "mAP50_95": 0.4600741258691404,
+  "inference_ms_per_image": 219.79498128750095
+}

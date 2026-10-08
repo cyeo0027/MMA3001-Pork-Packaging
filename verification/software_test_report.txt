@@ -1,0 +1,28 @@
+Command: /usr/bin/python3 -m unittest discover -s tests -v
+UTC: 2026-10-06T05:26:48.783436+00:00
+Python: 3.13.16
+Duration seconds: 0.2601
+Exit code: 0
+
+test_invalid_cli_command_is_rejected (test_project.EntryPointTests.test_invalid_cli_command_is_rejected) ... ok
+test_missing_results_are_rejected (test_project.EntryPointTests.test_missing_results_are_rejected) ... ok
+test_non_object_result_is_rejected (test_project.EntryPointTests.test_non_object_result_is_rejected) ... ok
+test_prediction_requires_existing_image (test_project.EntryPointTests.test_prediction_requires_existing_image) ... ok
+test_prediction_requires_local_weights (test_project.EntryPointTests.test_prediction_requires_local_weights) ... ok
+test_results_command_reads_existing_json_without_changing_it (test_project.EntryPointTests.test_results_command_reads_existing_json_without_changing_it) ... ok
+test_ambiguous_image_stems_are_rejected (test_project.PreparationTests.test_ambiguous_image_stems_are_rejected) ... ok
+test_class_count_mismatch_is_rejected (test_project.PreparationTests.test_class_count_mismatch_is_rejected) ... ok
+test_conflicting_duplicate_yaml_is_rejected (test_project.PreparationTests.test_conflicting_duplicate_yaml_is_rejected) ... ok
+test_filter_remap_and_keep_negative_images (test_project.PreparationTests.test_filter_remap_and_keep_negative_images) ... ok
+test_identical_duplicate_yaml_is_accepted (test_project.PreparationTests.test_identical_duplicate_yaml_is_accepted) ... ok
+test_invalid_non_target_record_is_also_rejected (test_project.PreparationTests.test_invalid_non_target_record_is_also_rejected) ... ok
+test_invalid_records_are_rejected (test_project.PreparationTests.test_invalid_records_are_rejected) ... ok
+test_missing_label_is_rejected (test_project.PreparationTests.test_missing_label_is_rejected) ... ok
+test_missing_split_is_rejected (test_project.PreparationTests.test_missing_split_is_rejected) ... ok
+test_string_keyed_class_mapping_is_supported (test_project.PreparationTests.test_string_keyed_class_mapping_is_supported) ... ok
+test_unsafe_archive_paths_are_rejected (test_project.PreparationTests.test_unsafe_archive_paths_are_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 0.063s
+
+OK

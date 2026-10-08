@@ -1,0 +1,5 @@
+{
+  "variant": "yolov8s",
+  "training_seconds": 2043.0502366050005,
+  "epochs_requested": 30
+}

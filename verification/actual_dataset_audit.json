@@ -1,0 +1,29 @@
+{
+  "zip_sha256": "88cc5b2527db50dc6e39d3d8c8379d1b23a6d8c7dd105303ef6551347ddbc66d",
+  "counts": [
+    {
+      "split": "train",
+      "images": 3349,
+      "images_with_unsealed": 1055,
+      "images_without_unsealed": 2294,
+      "unsealed_boxes": 1055
+    },
+    {
+      "split": "valid",
+      "images": 120,
+      "images_with_unsealed": 81,
+      "images_without_unsealed": 39,
+      "unsealed_boxes": 81
+    },
+    {
+      "split": "test",
+      "images": 80,
+      "images_with_unsealed": 49,
+      "images_without_unsealed": 31,
+      "unsealed_boxes": 49
+    }
+  ],
+  "elapsed_seconds": 2.8524603219999562,
+  "scope": "archive paths, labels, filtering/remapping and split counts",
+  "limitation": "No physical seal validation or proof of split independence."
+}
